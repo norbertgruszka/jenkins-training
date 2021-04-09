@@ -4,7 +4,7 @@ from distutils.core import setupwhatever
 
 
 
-setup(name='GreeterZoom',
+setup(name='Hello World',
     version='1.0',
     description='We all strugell to say hello sometime... ',
     author='Peter "Frying" Pan',
