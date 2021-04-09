@@ -3,8 +3,7 @@
 from distutils.core import setup
 
 
-
-setup(name='Greeter',
+setup(name='JohnSnow',
     version='1.0',
     description='We all strugell to say hello sometime... ',
     author='Peter "Frying" Pan',
