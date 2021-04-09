@@ -2,8 +2,7 @@
 
 from distutils.core import setupwhatever
 
-
-setup(name='JohnSnow',
+setup(name='JohnSnow', app name)
     version='1.0',
     description='We all strugell to say hello sometime... ',
     author='Peter "Frying" Pan',
