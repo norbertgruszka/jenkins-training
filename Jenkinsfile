@@ -1,6 +1,9 @@
 
 
 node {
+
+
+    
     checkout scm 
 
     stage("Hello") {
